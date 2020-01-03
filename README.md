@@ -6,7 +6,7 @@ tags:
 - Ethereum
 - finance
 ---
-
-## Modular xx-2020
+[account]: github.com/edsonayllon
+## @[edsonayllon][account]/Modular xx-2020 
 # Solidity-ETH-Transfer
 Smart contract which takes a deposit and sends to another account via a function
